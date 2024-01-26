@@ -1,6 +1,10 @@
-name: Create release
+name: Upload release
 
-on: [push]
+on:
+  workflow_run:
+    workflows: ["Create release"]
+    types:
+      - completed
 
 jobs:
   build:
