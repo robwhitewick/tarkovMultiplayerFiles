@@ -1,0 +1,313 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - EscapeFromTarkov (25/01/2024 04:53:26)
+[Info   :   BepInEx] Running under Unity v0.14.0.2847
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] Loading [StayInTarkov 1.10.0]
+[Info   :StayInTarkov] UseSITGarbageCollector:True
+[Info   :StayInTarkov] SITGCMemoryThreshold:4048
+[Info   :StayInTarkov] SITGCClearAssets:True
+[Info   :StayInTarkov] SITGCAggressiveClean:False
+[Info   :SIT.Tarkov.Core.PatchConstants] PatchConstants: 12787 EftTypes found
+[Info   :SIT.Tarkov.Core.PatchConstants] PatchConstants: 55 JsonConverters found
+[Info   :ModulePatch] Enabled patch VersionLabelPatch
+[Info   :StayInTarkov] EnableCorePatches
+[Info   :ModulePatch] Enabled patch ConsistencySinglePatch
+[Info   :ModulePatch] Enabled patch ConsistencyMultiPatch
+[Info   :ModulePatch] Enabled patch RunFilesCheckingPatch
+[Info   :ModulePatch] Enabled patch AntiCheatPatch
+[Info   :ModulePatch] Enabled patch BattlEyePatchFirstPassRun
+[Info   :ModulePatch] Enabled patch BattlEyePatchFirstPassUpdate
+[Info   :ModulePatch] Enabled patch SslCertificatePatch
+[Info   :ModulePatch] Enabled patch UnityWebRequestPatch
+[Info   :ModulePatch] Enabled patch SendCommandsPatch
+[Info   :ModulePatch] Enabled patch TransportPrefixPatch
+[Info   :ModulePatch] Enabled patch WebSocketPatch
+[Info   :ModulePatch] Enabled patch EasyAssetsPatch
+[Info   :ModulePatch] Enabled patch EasyBundlePatch
+[Info   :   BepInEx] Loading [PaulovTraderScreenScrollbar 1.0.0.0]
+[Info   :ModulePatch] Enabled patch TraderScreensGroupPatch
+[Info   :   BepInEx] Loading [AKI.Singleplayer 1.0.0.0]
+[Info   :AKI.Singleplayer] Loading: Aki.SinglePlayer
+[Info   :ModulePatch] Enabled patch RemoveScavModeButtonPatch
+[Info   :ModulePatch] Enabled patch ExperienceGainPatch
+[Info   :ModulePatch] Enabled patch RemoveReadyButtonPatch
+[Info   :ModulePatch] Enabled patch MidRaidQuestChangePatch
+[Info   :ModulePatch] Enabled patch OfflineSettingsScreenPatch
+[Info   :ModulePatch] Enabled patch MidRaidAchievementChangePatch
+[Info   :ModulePatch] OfflineDisplayProgressPatch:Method Name:method_47
+[Info   :ModulePatch] Enabled patch OfflineDisplayProgressPatch
+[Info   :ModulePatch] Enabled patch InsuranceScreenPatch
+[Info   :ModulePatch] CreateProfile
+[Info   :GetNewBotTemplatesPatch] CreateProfile
+[Info   :ModulePatch] Enabled patch OfflineSaveProfile
+[Info   :ModulePatch] Enabled patch GetNewBotTemplatesPatch
+[Info   :ModulePatch] Enabled patch DogtagPatch
+[Info   :ModulePatch] Enabled patch PostRaidHealingPricePatch
+[Info   :ModulePatch] Enabled patch CoreDifficultyPatch
+[Info   :ModulePatch] Enabled patch BotDifficultyPatch
+[Info   :ModulePatch] Enabled patch BotSettingsRepoClassIsFollowerFixPatch
+[Info   :ModulePatch] Enabled patch BotSelfEnemyPatch
+[Info   :ModulePatch] Enabled patch PmcFirstAidPatch
+[Info   :ModulePatch] Enabled patch SpawnProcessNegativeValuePatch
+[Info   :ModulePatch] Enabled patch LocationLootCacheBustingPatch
+[Info   :ModulePatch] Enabled patch QTEPatch
+[Info   :      Coop] Stay in Tarkov - Enabling Coop Patches
+[Info   :ModulePatch] Enabled patch TarkovApplication_LocalGameCreator_Patch
+[Info   :ModulePatch] Enabled patch NonWaveSpawnScenarioPatch
+[Info   :ModulePatch] Enabled patch WaveSpawnScenarioPatch
+[Info   :ModulePatch] Enabled patch LoadLocationLootPatch
+[Info   :ModulePatch] Enabled patch EnvironmentUIRootPatch
+[Info   :ModulePatch] Enabled patch MatchmakerAcceptScreenAwakePatch
+[Info   :ModulePatch] Enabled patch MatchmakerAcceptScreenShowPatch
+[Info   :ModulePatch] Enabled patch AirdropFlarePatch
+[Info   :ModulePatch] Enabled patch PostRaidHealScreenPatch
+[Info   :ModulePatch] Enabled patch LighthouseBridgePatch
+[Info   :ModulePatch] Enabled patch LighthouseTransmitterPatch
+[Info   :ModulePatch] Enabled patch LabsKeycardRemovalPatch
+[Info   :AKI.Singleplayer] Completed: Aki.SinglePlayer
+[Message:   BepInEx] Chainloader startup complete
+[Info   :SIT.Tarkov.Core.PatchConstants] Official EFT Found. Thanks for supporting BSG.
+[Info   :StayInTarkov] Stay in Tarkov is loaded!
+[Info   :StayInTarkov] Version Check: Detected:0.14.0.1.28476
+[Info   :StayInTarkov] Version Check: OK.
+[Info   :ModulePatch] MatchmakerAcceptScreenAwakePatch.PatchPrefix
+[Info   :ModulePatch] MatchmakerAcceptScreenShow.PatchPostfix
+[Info   :SIT Matchmaker GUI] Start
+[Info   :SIT.Tarkov.Core.PatchConstants] {"serverId":"65af6aa10004bdb388905eb5","timestamp":1706169677,"expectedNumberOfPlayers":1,"sitVersion":"1.10.8789.43133","gameVersion":"0.14.0.1.28476"}
+[Info   :Coop Game Mode] CoopGame.Create
+[Info   :ModulePatch] Enabled patch Player_Init_Coop_Patch
+[Info   :ModulePatch] Enabled patch WeaponSoundPlayer_FireSonicSound_Patch
+[Info   :ModulePatch] Enabled patch ItemControllerHandler_Move_Patch
+[Info   :ModulePatch] Enabled patch LootableContainer_Interact_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_ChangeAimingMode_Patch
+[Info   :ModulePatch] Enabled patch PlayerInventoryController_LoadMagazine_Patch
+[Warning:  HarmonyX] PlayerInventoryController_RechamberWeapon_Patch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method void ItemController::RechamberWeapon(EFT.InventoryLogic.Weapon weapon, Comfort.Common.Callback callback) instead of void ItemController::RechamberWeapon(EFT.InventoryLogic.Weapon weapon, Comfort.Common.Callback callback).
+[Warning:  HarmonyX] PlayerInventoryController_RechamberWeapon_Patch: You should only patch implemented methods/constructors to avoid issues. Patch the declared method void ItemController::RechamberWeapon(EFT.InventoryLogic.Weapon weapon, Comfort.Common.Callback callback) instead of void ItemController::RechamberWeapon(EFT.InventoryLogic.Weapon weapon, Comfort.Common.Callback callback).
+[Info   :ModulePatch] Enabled patch PlayerInventoryController_RechamberWeapon_Patch
+[Info   :ModulePatch] Enabled patch PlayerInventoryController_ThrowItem_Patch
+[Info   :ModulePatch] Enabled patch PlayerInventoryController_ToggleItem_Patch
+[Info   :ModulePatch] Enabled patch PlayerInventoryController_UnloadMagazine_Patch
+[Info   :ModulePatch] Enabled patch Player_ApplyDamageInfo_Patch
+[Info   :ModulePatch] Enabled patch Player_Gesture_Patch
+[Info   :ModulePatch] Enabled patch Player_Say_Patch
+[Info   :ModulePatch] Enabled patch Player_SetInventoryOpened_Patch
+[Info   :ModulePatch] Enabled patch Player_SwitchHeadLights_Patch
+[Info   :ModulePatch] Enabled patch Player_Proceed_EmptyHands_Patch
+[Info   :ModulePatch] Enabled patch Player_Proceed_FoodDrink_Patch
+[Info   :ModulePatch] Enabled patch Player_Proceed_Grenade_Patch
+[Info   :ModulePatch] Enabled patch Player_Proceed_Meds_Patch
+[Info   :ModulePatch] Enabled patch Player_Proceed_QuickGrenadeThrow_Patch
+[Info   :ModulePatch] Enabled patch Player_Proceed_QuickKnifeKick_Patch
+[Info   :ModulePatch] Enabled patch Player_Proceed_Weapon_Patch
+[Info   :ModulePatch] Enabled patch Player_TryProceed_Patch
+[Info   :ModulePatch] Enabled patch GrenadeController_ExamineWeapon_Patch
+[Info   :ModulePatch] Enabled patch KnifeController_MakeAlternativeKick_Patch
+[Info   :ModulePatch] Enabled patch KnifeController_MakeKnifeKick_Patch
+[Info   :ModulePatch] Enabled patch Player_ExecuteDoorInteraction_Patch
+[Info   :ModulePatch] Enabled patch Player_StartDoorInteraction_Patch
+[Info   :ModulePatch] Enabled patch PHC_Kill_Patch
+[Info   :ModulePatch] Enabled patch RemoveNegativeEffectsPatch
+[Info   :ModulePatch] Enabled patch RestoreBodyPartPatch
+[Info   :ModulePatch] Enabled patch GrenadeController_ExamineWeapon_Patch
+[Info   :ModulePatch] Enabled patch GrenadeController_HighThrow_Patch
+[Info   :ModulePatch] Enabled patch GrenadeController_LowThrow_Patch
+[Info   :ModulePatch] Enabled patch GrenadeController_PullRingForHighThrow_Patch
+[Info   :ModulePatch] Enabled patch GrenadeController_PullRingForLowThrow_Patch
+[Info   :ModulePatch] Enabled patch FireArmController_ToggleAim_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_ChangeFireMode_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_CheckAmmo_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_CheckChamber_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_ExamineWeapon_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_Loot_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_Pickup_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_QuickReloadMag_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_ReloadMag_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_ReloadWithAmmo_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_SetLightsState_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_SetScopeMode_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_SetTriggerPressed_Patch
+[Info   :ModulePatch] Enabled patch FirearmController_ToggleLauncher_Patch
+[Info   :Coop Game Mode] Retreived Spawn Point {"x":-8.58,"y":-3.905,"z":-18.89}
+[Info   :CoopPlayerStatisticsManager] CoopPlayerStatisticsManager:BeginStatisticsSession
+[Info   :Coop Game Mode] Location: Factory
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:19:57
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:19:46
+[Info   :ModulePatch] Player_StartDoorInteraction_Patch:Replicated
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:19:36
+[Info   :Coop Game Mode] vmethod_4.SessionRun
+[Info   :Coop Game Mode] CreateExfiltrationPointAndInitDeathHandler
+[Info   :SITAirdropsManager] Awake
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:19:26
+[Info   :ActionPacketHandlerComponent] RaidTimer: New SessionTime 00:19:33
+[Info   :ModulePatch] Player_StartDoorInteraction_Patch:Replicated
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "1595e4780533eea2481f8899",
+    "ContainerId": "patron_in_weapon"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:19:16
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:19:06
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:18:56
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "5fe49a0e2694b0755a50476c",
+    "ContainerId": "SecondPrimaryWeapon"
+  }
+}
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "7e93e5db150e6efcff586b92",
+    "ContainerId": "SecondPrimaryWeapon"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:18:46
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:18:36
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:18:26
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:18:16
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "1595e4780533eea2481f8899",
+    "ContainerId": "patron_in_weapon"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:18:06
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "5fe49a0e2694b0755a50476c",
+    "ContainerId": "FaceCover"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:17:56
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "5fe49a0e2694b0755a50476c",
+    "ContainerId": "SecondPrimaryWeapon"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:17:46
+[Info   :ModulePatch] PlayerInventoryController_ThrowItem_Patch.Replicated
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "5fe49a0e2694b0755a50476c",
+    "ContainerId": "TacticalVest"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:17:36
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:17:26
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:17:16
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "a02e4b9dd32e48c5e9044115",
+    "ContainerId": "patron_in_weapon"
+  }
+}
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "a02e4b9dd32e48c5e9044115",
+    "ContainerId": "patron_in_weapon"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:17:06
+[Error  :ItemControllerHandler_Move_Patch] Item not found!
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "1595e4780533eea2481f8899",
+    "ContainerId": "patron_in_weapon"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:16:56
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "1595e4780533eea2481f8899",
+    "ContainerId": "patron_in_weapon"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:16:46
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "1595e4780533eea2481f8899",
+    "ContainerId": "patron_in_weapon"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:16:36
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:16:26
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:16:16
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:16:06
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "8af6d0025204f438720d671a",
+    "ContainerId": "SecondPrimaryWeapon"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:15:56
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "5fe49a0e2694b0755a50476c",
+    "ContainerId": "ArmorVest"
+  }
+}
+[Info   :ModulePatch] PlayerInventoryController_ThrowItem_Patch.Replicated
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "8af6d0025204f438720d671a",
+    "ContainerId": "Earpiece"
+  }
+}
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "5fe49a0e2694b0755a50476c",
+    "ContainerId": "Holster"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:15:46
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:15:36
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:15:26
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:15:16
+[Error  :ModulePatch] DogtagPatch error > DogTag slot item on: dev-ghutluck is null somehow.
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:15:06
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:14:56
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "5fe49a0e2694b0755a50476c",
+    "ContainerId": "Backpack"
+  }
+}
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:14:46
+[Error  :ItemControllerHandler_Move_Patch] Item not found!
+[Error  :ItemControllerHandler_Move_Patch] Item not found!
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:14:36
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:14:26
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:14:16
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:14:06
+[Info   :SIT.Tarkov.Core.PatchConstants] Added CoopHealthController,Dictionary_0 to _cachedProperties
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:13:56
+[Info   :ItemControllerHandler_Move_Patch] {
+  "Container": {
+    "ParentId": "9496d5bd6f86af90420901db",
+    "ContainerId": "patron_in_weapon"
+  }
+}
+[Error  :ModulePatch] 139f097c1911264d410123d5: Failed to ReloadWithAmmo
+[Error  :ItemControllerHandler_Move_Patch] ReplicatedGridAddressGrid.GridAddressGrid is Null
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:13:46
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:13:36
+[Info   :ModulePatch] Player_ExecuteDoorInteraction_Patch:Replicated
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:13:26
+[Info   :ModulePatch] Player_ExecuteDoorInteraction_Patch:Replicated
+[Info   :CoopPlayerStatisticsManager] CoopPlayerStatisticsManager:OnSpecialPlaceVisited
+[Info   :CoopPlayerStatisticsManager] CoopPlayerStatisticsManager:OnSpecialPlaceVisited
+[Info   :ActionPacketHandlerComponent] RaidTimer: Remaining session time 00:13:16
+[Info   :Coop Game Mode] CoopGame.Stop
+[Error  :   Request] ProcessPacketBytes. coopGameComponent is Null
+[Info   :ModulePatch] Saving Profile...
+[Info   :ModulePatch] PatchPrefix

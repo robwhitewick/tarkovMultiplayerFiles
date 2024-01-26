@@ -1,0 +1,17 @@
+{
+  "LastServer": "http://127.0.0.1:6969",
+  "Username": "ZSA",
+  "Password": "ASSAS",
+  "InstallPath": "D:\\games\\SIT\\tarkov-14",
+  "AkiServerPath": null,
+  "RememberLogin": true,
+  "CloseAfterLaunch": false,
+  "TarkovVersion": "0.14.0.1.28476",
+  "SitVersion": "1.10.8789.43133",
+  "LookForUpdates": true,
+  "AcceptedModsDisclaimer": false,
+  "ModCollectionVersion": null,
+  "InstalledMods": {},
+  "ConsoleFontColor": "#FFADD8E6",
+  "ConsoleFontFamily": "Consolas"
+}

@@ -1,0 +1,9 @@
+[2024-01-26 02:56:58] Login Error: System.TypeInitializationException: The type initializer for 'ComponentAce.Compression.Libs.zlib.Pools' threw an exception.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'bsg.system.buffers, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'bsg.system.buffers, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'
+   at ComponentAce.Compression.Libs.zlib.Pools..cctor()
+   --- End of inner exception stack trace ---
+   at ComponentAce.Compression.Libs.zlib.SimpleZlib.CompressToBytes(String text, Int32 compressLevel, Encoding encoding)
+   at SIT.Manager.Classes.TarkovRequesting.Send(String url, String method, String data, Boolean compress) in D:\games\SIT\SIT LAUNCHER\SIT.Manager\SIT.Manager\Classes\TarkovRequesting.cs:line 71
+   at SIT.Manager.Classes.TarkovRequesting.PostJson(String url, String data, Boolean compress) in D:\games\SIT\SIT LAUNCHER\SIT.Manager\SIT.Manager\Classes\TarkovRequesting.cs:line 173
+   at SIT.Manager.Pages.PlayPage.LoginToServer() in D:\games\SIT\SIT LAUNCHER\SIT.Manager\SIT.Manager\Pages\PlayPage.xaml.cs:line 176
