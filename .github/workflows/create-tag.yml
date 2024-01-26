@@ -13,8 +13,8 @@ jobs:
     steps:
       # ...
       - uses: actions/checkout@v2
-          with:
-            fetch-depth: 0
+        with:
+          fetch-depth: 0
       - name: Zip Folder
         run: zip -r ${{ github.event.repository.name }}.zip . -x ".git/*" ".github/*" ".gitignore"
       - uses: "marvinpinto/action-automatic-releases@latest"
