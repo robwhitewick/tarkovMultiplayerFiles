@@ -1,9 +1,7 @@
 name: Create release
 
-on: 
-  push:
-    tags:
-    - '*'
+on: [push]
+
 
 jobs:
   build:
