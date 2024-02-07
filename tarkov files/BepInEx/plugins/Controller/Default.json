@@ -1,0 +1,1681 @@
+{
+  "AmandsControllerButtonBinds": {
+    "LT": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ToggleAlternativeShooting",
+            "AmandsControllerSet": ""
+          },
+          {
+            "Command": "InputTree",
+            "InputTree": "EndSprinting",
+            "AmandsControllerSet": ""
+          },
+          {
+            "Command": "InputTree",
+            "InputTree": "TryLowThrow",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      },
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "FinishLowThrow",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Release",
+        "Priority": -1
+      }
+    ],
+    "RT": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ToggleShooting",
+            "AmandsControllerSet": ""
+          },
+          {
+            "Command": "InputTree",
+            "InputTree": "EndSprinting",
+            "AmandsControllerSet": ""
+          },
+          {
+            "Command": "InputTree",
+            "InputTree": "TryHighThrow",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      },
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "EndShooting",
+            "AmandsControllerSet": ""
+          },
+          {
+            "Command": "InputTree",
+            "InputTree": "FinishHighThrow",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Release",
+        "Priority": -1
+      }
+    ],
+    "A": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "Jump",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      }
+    ],
+    "B": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ToggleDuck",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      },
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ToggleProne",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Hold",
+        "Priority": -1
+      }
+    ],
+    "X": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ReloadWeapon",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      },
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "CheckAmmo",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Hold",
+        "Priority": -1
+      },
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "QuickReloadWeapon",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "DoubleClick",
+        "Priority": -1
+      }
+    ],
+    "Y": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "QuickSelectWeapon",
+            "InputTree": "None",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      },
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ExamineWeapon",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Hold",
+        "Priority": -1
+      }
+    ],
+    "LS": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ToggleSprinting",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      }
+    ],
+    "RS": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "QuickKnifeKick",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      },
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "SelectKnife",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Hold",
+        "Priority": -1
+      }
+    ],
+    "UP": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "NextTacticalDevice",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      },
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ToggleTacticalDevice",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Hold",
+        "Priority": -1
+      }
+    ],
+    "DOWN": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ChangeWeaponMode",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      },
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "CheckFireMode",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Hold",
+        "Priority": -1
+      },
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ForceAutoWeaponMode",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "DoubleClick",
+        "Priority": -1
+      }
+    ],
+    "LEFT": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ChangeScopeMagnification",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      },
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ChangeScope",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Hold",
+        "Priority": -1
+      }
+    ],
+    "RIGHT": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ChangeScope",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      }
+    ],
+    "BACK": [
+      {
+        "AmandsControllerCommands": [
+          {
+            "Command": "InputTree",
+            "InputTree": "ToggleInventory",
+            "AmandsControllerSet": ""
+          }
+        ],
+        "PressType": "Press",
+        "Priority": -1
+      }
+    ]
+  },
+  "AmandsControllerSets": {
+    "LB": {
+      "UP": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ThrowGrenade",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 2
+        }
+      ],
+      "DOWN": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "SelectSecondaryWeapon",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 2
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "SelectSecondaryWeapon",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "DoubleClick",
+          "Priority": 2
+        }
+      ],
+      "LEFT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "SelectSecondPrimaryWeapon",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 2
+        }
+      ],
+      "RIGHT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "SelectFirstPrimaryWeapon",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 2
+        }
+      ],
+      "A": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "PressSlot4",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "EnableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 2
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "SelectFastSlot4",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "DisableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 2
+        }
+      ],
+      "B": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "PressSlot5",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "EnableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 2
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "SelectFastSlot5",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "DisableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 2
+        }
+      ],
+      "X": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "PressSlot6",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "EnableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 2
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "SelectFastSlot6",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "DisableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 2
+        }
+      ],
+      "Y": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "PressSlot7",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "EnableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 2
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "SelectFastSlot7",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "DisableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 2
+        }
+      ],
+      "LS": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "DropBackpack",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 2
+        }
+      ],
+      "BACK": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ToggleGoggles",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 2
+        }
+      ]
+    },
+    "RB": {
+      "X": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ChamberUnload",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 1
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "CheckChamber",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Hold",
+          "Priority": 1
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "UnloadMagazine",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "DoubleClick",
+          "Priority": 1
+        }
+      ],
+      "B": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "EnableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "Movement"
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 1
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "DisableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "Movement"
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 1
+        }
+      ],
+      "Y": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "FoldStock",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 1
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "CheckChamber",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Hold",
+          "Priority": 1
+        }
+      ],
+      "LEFT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ToggleLeanLeft",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 1
+        }
+      ],
+      "RIGHT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ToggleLeanRight",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 1
+        }
+      ],
+      "BACK": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "SwitchHeadLight",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 1
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ToggleHeadLight",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Hold",
+          "Priority": 1
+        }
+      ]
+    },
+    "LB_RB": {
+      "UP": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ToggleBlindAbove",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 3
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "BlindShootEnd",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 3
+        }
+      ],
+      "DOWN": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ToggleBlindRight",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 3
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "BlindShootEnd",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 3
+        }
+      ],
+      "LEFT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ToggleStepLeft",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 3
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ReturnFromLeftStep",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 3
+        }
+      ],
+      "RIGHT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ToggleStepRight",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 3
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ReturnFromRightStep",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 3
+        }
+      ],
+      "A": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "PressSlot8",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "EnableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 3
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "SelectFastSlot8",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "DisableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 3
+        }
+      ],
+      "B": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "PressSlot9",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "EnableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 3
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "SelectFastSlot9",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "DisableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 3
+        }
+      ],
+      "X": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "PressSlot0",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "EnableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 3
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "SelectFastSlot0",
+              "AmandsControllerSet": ""
+            },
+            {
+              "Command": "DisableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "HealingLimbSelector"
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 3
+        }
+      ],
+      "Y": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "DisplayTimer",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 3
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "DisplayTimerAndExits",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "DoubleClick",
+          "Priority": 3
+        }
+      ]
+    },
+    "ActionPanel": {
+      "X": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "BeginInteracting",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 10
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "EndInteracting",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 10
+        }
+      ],
+      "UP": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ScrollPrevious",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 10
+        }
+      ],
+      "DOWN": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ScrollNext",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 10
+        }
+      ]
+    },
+    "HealingLimbSelector": {
+      "UP": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ScrollNext",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 11
+        }
+      ],
+      "DOWN": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ScrollPrevious",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 11
+        }
+      ]
+    },
+    "Movement": {
+      "LSLEFT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "SlowLeanLeft",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 3
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "EndSlowLean",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 3
+        }
+      ],
+      "LSRIGHT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "SlowLeanRight",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 3
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "EndSlowLean",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 3
+        }
+      ]
+    },
+    "Aiming": {
+      "RS": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "ToggleBreathing",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 4
+        }
+      ],
+      "RB": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "EnableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "Aiming_RB"
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 4
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "DisableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "Aiming_RB"
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 4
+        }
+      ]
+    },
+    "Aiming_RB": {
+      "UP": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "OpticCalibrationSwitchUp",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 4
+        }
+      ],
+      "DOWN": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "OpticCalibrationSwitchDown",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 4
+        }
+      ]
+    },
+    "Interface": {
+      "UP": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceUp",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 20
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceDisableAutoMove",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 20
+        }
+      ],
+      "DOWN": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceDown",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 20
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceDisableAutoMove",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 20
+        }
+      ],
+      "LEFT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceLeft",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 20
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceDisableAutoMove",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 20
+        }
+      ],
+      "RIGHT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceRight",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 20
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceDisableAutoMove",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 20
+        }
+      ],
+      "A": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "BeginDrag",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 20
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "ShowContextMenu",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Hold",
+          "Priority": 20
+        }
+      ],
+      "B": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InputTree",
+              "InputTree": "Escape",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 20
+        }
+      ],
+      "X": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "Use",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 20
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "UseHold",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Hold",
+          "Priority": 20
+        }
+      ],
+      "Y": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "QuickMove",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 20
+        }
+      ],
+      "RS": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "Discard",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 20
+        }
+      ],
+      "LB": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "EnableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "Interface_LB"
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 20
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "DisableSet",
+              "InputTree": "None",
+              "AmandsControllerSet": "Interface_LB"
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 20
+        }
+      ],
+      "LT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "PreviousTab",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 20
+        }
+      ],
+      "RT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "NextTab",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 20
+        }
+      ]
+    },
+    "OnDrag": {
+      "A": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "EndDrag",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 23
+        }
+      ],
+      "B": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "CancelDrag",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 23
+        }
+      ],
+      "X": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "RotateDragged",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 23
+        }
+      ],
+      "Y": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "SplitDragged",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 23
+        }
+      ]
+    },
+    "Interface_LB": {
+      "A": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceBind4",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 21
+        }
+      ],
+      "B": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceBind5",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 21
+        }
+      ],
+      "X": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceBind6",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 21
+        }
+      ],
+      "Y": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceBind7",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 21
+        }
+      ]
+    },
+    "Interface_LB_RB": {
+      "A": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceBind8",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 22
+        }
+      ],
+      "B": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceBind9",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 22
+        }
+      ],
+      "X": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "InterfaceBind10",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 22
+        }
+      ]
+    },
+    "SearchButton": {
+      "A": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "Search",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 24
+        }
+      ]
+    },
+    "ContextMenu": {
+      "A": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "ContextMenuUse",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 30
+        }
+      ],
+      "X": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "None",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 30
+        }
+      ],
+      "Y": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "None",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 30
+        }
+      ],
+      "RS": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "None",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 30
+        }
+      ]
+    },
+    "SplitDialog": {
+      "A": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "SplitDialogAccept",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 50
+        }
+      ],
+      "UP": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "SplitDialogAdd",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 50
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "SplitDialogDisableAutoMove",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 50
+        }
+      ],
+      "DOWN": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "SplitDialogSubtract",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 50
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "SplitDialogDisableAutoMove",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 50
+        }
+      ],
+      "LEFT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "SplitDialogSubtract",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 50
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "SplitDialogDisableAutoMove",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 50
+        }
+      ],
+      "RIGHT": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "SplitDialogAdd",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 50
+        },
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "SplitDialogDisableAutoMove",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Release",
+          "Priority": 50
+        }
+      ],
+      "RS": [
+        {
+          "AmandsControllerCommands": [
+            {
+              "Command": "None",
+              "InputTree": "None",
+              "AmandsControllerSet": ""
+            }
+          ],
+          "PressType": "Press",
+          "Priority": 50
+        }
+      ]
+    }
+  }
+}
