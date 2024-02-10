@@ -1,0 +1,17 @@
+{
+  "Username": null,
+  "Password": null,
+  "RememberLogin": false,
+  "CloseAfterLaunch": false,
+  "LookForUpdates": true,
+  "InstallPath": "D:\\games\\SIT\\tarkov-14",
+  "TarkovVersion": "0.14.0.1.28476",
+  "SitVersion": "1.10.8802.35551",
+  "LastServer": "http://127.0.0.1:6969",
+  "AkiServerPath": null,
+  "AcceptedModsDisclaimer": false,
+  "ModCollectionVersion": null,
+  "InstalledMods": {},
+  "ConsoleFontColor": "#FFADD8E6",
+  "ConsoleFontFamily": "Consolas"
+}
