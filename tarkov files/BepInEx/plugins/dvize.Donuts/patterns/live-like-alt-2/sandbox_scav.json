@@ -1,0 +1,264 @@
+{
+  "Locations": [
+    {
+      "MapName": "sandbox",
+      "GroupNum": 50,
+      "Name": "SCAV1",
+      "Position": {
+        "x": -10.7931976,
+        "y": 23.982048,
+        "z": 16.7358112
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "MaxRandomNumBots": 1,
+      "BotTriggerDistance": 1000,
+      "BotTimerTrigger": 280,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    },
+    {
+      "MapName": "sandbox",
+      "GroupNum": 50,
+      "Name": "SCAV2",
+      "Position": {
+        "x": 109.116806,
+        "y": 22.70865,
+        "z": 234.205811
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "BotTriggerDistance": 500,
+      "BotTimerTrigger": 240,
+      "MaxRandomNumBots": 2,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    },
+    {
+      "MapName": "sandbox",
+      "GroupNum": 80,
+      "Name": "SCAV3",
+      "Position": {
+        "x": 172.2468,
+        "y": 16.9886513,
+        "z": 9.425811
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "BotTriggerDistance": 1000,
+      "BotTimerTrigger": 320,
+      "MaxRandomNumBots": 1,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    },
+    {
+      "MapName": "sandbox",
+      "GroupNum": 80,
+      "Name": "SCAV4",
+      "Position": {
+        "x": 57.717804,
+        "y": 23.4366512,
+        "z": 226.737823
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "BotTriggerDistance": 1000,
+      "BotTimerTrigger": 380,
+      "MaxRandomNumBots": 1,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    },
+    {
+      "MapName": "sandbox",
+      "GroupNum": 50,
+      "Name": "SCAV5",
+      "Position": {
+        "x": 13.4328041,
+        "y": 23.48965,
+        "z": 157.559814
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "MaxRandomNumBots": 2,
+      "BotTriggerDistance": 1000,
+      "BotTimerTrigger": 300,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    },
+    {
+      "MapName": "sandbox",
+      "GroupNum": 50,
+      "Name": "scav",
+      "Position": {
+        "x": 73.69881,
+        "y": 14.1306515,
+        "z": 117.034813
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "BotTriggerDistance": 1000,
+      "BotTimerTrigger": 300,
+      "MaxRandomNumBots": 1,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    },
+    {
+      "MapName": "sandbox",
+      "GroupNum": 51,
+      "Name": "scav",
+      "Position": {
+        "x": 74.6868057,
+        "y": 13.9586515,
+        "z": 160.9158
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "BotTriggerDistance": 500,
+      "BotTimerTrigger": 280,
+      "MaxRandomNumBots": 1,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    },
+    {
+      "MapName": "sandbox",
+      "GroupNum": 51,
+      "Name": "scav",
+      "Position": {
+        "x": 32.7768021,
+        "y": 22.6686516,
+        "z": 335.6558
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "BotTriggerDistance": 500,
+      "BotTimerTrigger": 180,
+      "MaxRandomNumBots": 2,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    },
+    {
+      "MapName": "sandbox",
+      "GroupNum": 81,
+      "Name": "scav",
+      "Position": {
+        "x": 73.880806,
+        "y": 14.1386509,
+        "z": 37.23281
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "BotTriggerDistance": 1000,
+      "BotTimerTrigger": 360,
+      "MaxRandomNumBots": 1,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    },
+    {
+      "MapName": "sandbox",
+      "GroupNum": 51,
+      "Name": "scav",
+      "Position": {
+        "x": 137.5668,
+        "y": 14.1126509,
+        "z": 61.81581
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "BotTriggerDistance": 1000,
+      "BotTimerTrigger": 280,
+      "MaxRandomNumBots": 1,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    },
+    {
+      "MapName": "sandbox",
+      "GroupNum": 82,
+      "Name": "scav",
+      "Position": {
+        "x": 163.6168,
+        "y": 22.768652,
+        "z": -88.24419
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "BotTriggerDistance": 500,
+      "BotTimerTrigger": 240,
+      "MaxRandomNumBots": 1,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    },
+    {
+      "MapName": "sandbox",
+      "GroupNum": 52,
+      "Name": "scav",
+      "Position": {
+        "x": 17.0988045,
+        "y": 24.20565,
+        "z": 73.366806
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "BotTriggerDistance": 500,
+      "BotTimerTrigger": 160,
+      "MaxRandomNumBots": 2,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    },
+    {
+      "MapName": "sandbox",
+      "GroupNum": 52,
+      "Name": "scav",
+      "Position": {
+        "x": 57.486805,
+        "y": 14.0686512,
+        "z": -33.82419
+      },
+      "WildSpawnType": "assault",
+      "MinDistance": 1,
+      "MaxDistance": 1,
+      "BotTriggerDistance": 1000,
+      "BotTimerTrigger": 300,
+      "MaxRandomNumBots": 2,
+      "SpawnChance": 75,
+      "MaxSpawnsBeforeCooldown": 5,
+      "IgnoreTimerFirstSpawn": true,
+      "MinSpawnDistanceFromPlayer": 40
+    }
+  ]
+}
