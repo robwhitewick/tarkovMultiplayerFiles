@@ -1,3 +1,3 @@
 drag both folders inside of "tarkov files" into your modded tarkov installation folder.
 
-Then drag sit manager somewhere outside of your tarkov install and run it.      
+Then drag sit manager somewhere outside of your tarkov install and run it.       
